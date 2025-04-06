@@ -1,7 +1,7 @@
 ## SugarCube 
 Built during the **418 Hackathon**, hosted by **Enigma** under **AEON 2025**.
 
-In a world where memories are buried under content and fleeting timelines, **SugarCube** offers something different — a soulful, intentional space to preserve what matters. We live in an age of infinite data but limited emotional storage. Our lives are scattered across platforms, yet there’s nowhere to simply feel, reflect, and return. SugarCube bridges that gap — a personal memory vault designed for emotion, not attention.
+In a world where memories are buried under content and fleeting timelines, SugarCube offers something different — a soulful, intentional space to preserve what matters. We live in an era of infinite data but limited emotional storage. Our lives are scattered across platforms, yet there’s nowhere to simply pause, feel, and return. SugarCube bridges that gap — a personal memory vault designed for emotion, not attention. Like a sugar cube melting slowly into coffee, it’s about letting moments dissolve gently into something warm and lasting — not vanish in the scroll.
 
 ---
 
