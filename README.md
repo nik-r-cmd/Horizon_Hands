@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Your digital memory vault for moments that matter.</strong><br>
-  Built by Team Enigma during the 418 Hackathon (AEON 2025)
+  Built during the **418 Hackathon**, hosted by **Enigma** under **AEON 2025**.
 </p>
 
 <p align="center">
